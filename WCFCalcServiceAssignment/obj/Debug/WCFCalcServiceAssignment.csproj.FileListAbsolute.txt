@@ -1,0 +1,6 @@
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\bin\Debug\WCFCalcServiceAssignment.dll.config
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\bin\Debug\WCFCalcServiceAssignment.dll
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\bin\Debug\WCFCalcServiceAssignment.pdb
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\obj\Debug\WCFCalcServiceAssignment.csprojResolveAssemblyReference.cache
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\obj\Debug\WCFCalcServiceAssignment.dll
+C:\Projects\WCFAssignment1\WCFCalcServiceAssignment\WCFCalcServiceAssignment\obj\Debug\WCFCalcServiceAssignment.pdb
